@@ -45,5 +45,27 @@
       "downloadMode": "public",
       "tags": ["remote", "stable"]
     }
+        {
+      "id": "smart-1",
+      "name": "智能布局插件22",
+      "version": "1.0.0",
+      "supportedEplanVersion": "2024",
+      "description": "Remote published EPLAN plugin package.",
+      "author": "Local Publisher",
+      "packageUrl": "packages/smart-layout-1.0.0.zip",
+      "iconUrl": "",
+      "entryDll": "SmartLayout.dll",
+      "releaseNotes": "Published to remote repository.",
+      "publishedAt": "2026/04/01",
+      "pricingType": "Free",
+      "language": "zh_CN",
+      "category": "General Tools",
+      "sha256": "af7565a5ee6560e186cf449bab27742cdee99c99b7375b3bc3c41956f4332135",
+      "size": 44919,
+      "updatedAt": "2026/04/01 06:44",
+      "minClientVersion": "1.0.0",
+      "downloadMode": "public",
+      "tags": ["remote", "stable"]
+    }
   ]
 }
